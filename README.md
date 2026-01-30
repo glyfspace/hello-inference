@@ -33,7 +33,7 @@ uv sync
 
 You’ll need a Modal account for local development.
 
-1) Sign up at modal.com. There is a free tier available.
+1) Sign up for [Modal](https://www.modal.com). There is a free tier available.
 2) In `apps/inference`, run:
 
 ```bash
