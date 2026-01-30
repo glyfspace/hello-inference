@@ -1,0 +1,7 @@
+{
+  "name": "@interview/inference",
+  "private": true,
+  "scripts": {
+    "dev": "uv run modal serve src/inference/app.py"
+  }
+}
